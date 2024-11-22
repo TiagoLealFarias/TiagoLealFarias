@@ -26,6 +26,6 @@ Embora eu tenha pouca experiência profissional, estou determinado a usar meu co
 ---
 
 ## 🌐 Vamos nos conectar?
-- **LinkedIn:** [seu-perfil-linkedin](https://www.linkedin.com/in/tiago-leal-farias-rosa-aa371618b/)  
-- **GitHub:** [github.com/seu-usuario](https://github.com/TiagoLealFarias/TiagoLealFarias)  
-- **E-mail:** [seuemail@exemplo.com](tiagoleal.dev@gmail.com)  
+- **LinkedIn:** (https://www.linkedin.com/in/tiago-leal-farias-rosa-aa371618b/)  
+- **GitHub:** (https://github.com/TiagoLealFarias/TiagoLealFarias)  
+- **E-mail:** (tiagoleal.dev@gmail.com)  
